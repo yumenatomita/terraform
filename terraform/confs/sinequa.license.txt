@@ -1,0 +1,22 @@
+ Sinequa License
+
+--------------------- options --------
+  Title                                   Partner License key for Sinequa ES V11 - CTC ITOCHU JP
+  CustomerName                            Natsumi Tsuzuki
+  Company                                 CTC ITOCHU JP
+  Author                                  Alain GRIGNON
+  NbrDays                                 227
+  NbrUnits                                5000000
+  RecordToUnit                            0.1
+  NeuralDocToUnit                         10
+  LicenseType                             Partner
+  CreationDate                            2023-12-15
+  StartingDate                            2023-12-15
+  ExpirationDate                          2024-07-30
+--------------------- key ------------
+4fd06c0551019a2e07296124fd1533ecce256aa679efb11265b978eec8f1ad914f5f5bc360fc62f743e589229078bb1cf588ea1e5728d04a4661827926fcb630
+eeb449d709e1dceb78d072bc7f70069c64e023bbfd3608770cbd751e57122b21aaa48b265376926e5c5c5e9c157881b069a6bef2d2a3ee8d2d7171b4b0787274
+74b8523a058237f51a9a02181b1adf44a885149658a90e7f9469eb023193bd079610bd72d6e585846a468aa838704dec855a158987bf836847db3db578223347
+4ba52824ffa2c6bb65ced2923e54f00ab8a32aa806accbde3313e7b015e4c6e9b951c372381b6581b248e3bb24c1c92f8ca41344ed71423737d79f08ad2b94ec
+ff2723d39b4b1fd69f79366ed973aa7d40b8ffdc1099151dd570f39904faffb2b852568361597600246752492fc51429
+--------------------------------------
