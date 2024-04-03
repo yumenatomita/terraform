@@ -1,0 +1,5 @@
+tenant_id = "c2d58a35-9a01-46e1-8519-06daa406d869"
+subscription_id = "58006b71-9fca-4df3-ae9b-893c6e4267ce"
+resource_group_name = "rg-university-s4a-image_terraform"
+image_id = "/subscriptions/58006b71-9fca-4df3-ae9b-893c6e4267ce/resourceGroups/rg-university-s4a-image/providers/Microsoft.Compute/images/sinequa-11.10.0.2065"
+location = "japaneast"
